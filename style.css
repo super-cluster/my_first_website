@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    text-align:center;
+    position: relative;
+    font-size: 1em;
+}
+.top-container{
+    background-color: #40BFC1;
+    padding-top: 100px;
+    position: relative;
+}
+h1{
+    margin: 0 auto 20px auto;
+    width:40%;
+    font-family: 'Sacramento', cursive;
+    font-size: 4.625rem;
+}
+#sun{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 50px;
+    top:20px;
+}
+#hello{
+    margin: 20px auto 20px auto;
+    width: 20%;
+    font-size: 2rem;
+
+}
+p{
+    font-family: 'Merriweather Sans', sans-serif;
+    width: 40%;
+    margin: 0 auto 0 auto;
+}
+#speed{
+    height: 300px;
+    width: 300px;
+
+   
+}
+#top-cloud{
+    height: 200px;
+    width: 200px;
+    margin-left: 30%;
+
+}
+hr{
+    border: 5px dotted blueviolet;
+    border-bottom: none;
+    width:20%;
+    margin: 20px auto 20px auto;
+    
+}
+#personal{
+    height: 200px;
+    width: 200px;
+    border-radius:50%;
+    margin: 50px auto 0 auto;
+}
+#rain{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 20%;
+}
+#intro{
+
+    margin: 0 auto 20px auto;
+}
