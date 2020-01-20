@@ -5,7 +5,7 @@ body{
     font-size: 1em;
 }
 .top-container{
-    background-color: #40BFC1;
+    background-image:linear-gradient(to bottom, rgb(208, 161, 59), #40BFC1);
     padding-top: 100px;
     position: relative;
 }
@@ -14,6 +14,7 @@ h1{
     width:40%;
     font-family: 'Sacramento', cursive;
     font-size: 4.625rem;
+    color: rgb(75, 136, 137);
 }
 #sun{
     height: 200px;
@@ -65,6 +66,7 @@ hr{
   width: 200px;
   position: absolute;
   left: 20%;
+  
 }
 #intro{
 
@@ -81,12 +83,32 @@ border-radius: 50%;
 
 }
 .bottom{
-    background-color: #40BFC1;
+    background-image:linear-gradient(to bottom, #40BFC1,rgb(59, 226, 120));
     height: 100px;
     padding: 50px 0 20px;
 }
 a{
     margin:10px 20px;
     text-decoration: none;
+    font-size: 20px;
+    color:rgb(54, 130, 132);
    
+}
+a:hover{
+    color:rgb(231, 243, 243);
+}
+#foot{
+    margin-top: 20px;
+    font-size: 20px;
+    color:white;
+}
+h2{
+    font-size: 2rem;
+    font-family: 'Quicksand', sans-serif;
+}
+#boost{
+height: 200px;
+width: 200px;
+position: absolute;
+left: 20px;
 }
